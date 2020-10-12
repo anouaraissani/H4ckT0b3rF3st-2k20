@@ -3,24 +3,26 @@ Add a Your_Full_Name.md file to this directory. Use any combination of content a
 
 ```markdown
 # Your Full Name
-
+  *Anouar Aissani*
 ### Location
-Your City/Country
+*Batna, Algeria*
 
 ### Academics
-Your school + Your major
+*second year Computer science engineering*
 
 ### Interests
-* Things you like
-* Hobbies
-
+* Watvhing TV  shows, anime and movies.
+*Reading.
+* Hobbies : 
+     * drawing.
+     *calligraphy.
 ### Skills
-* Designer
-* Can cook mhajeb
-* Writer
+* Programmer
+* Can cook nothing xD
+
 
 ### Profile Links
-[your-username](https://github.com/your-username)
+[Anouar Aissani](https://github.com/anouaraissani)
 
 ### Projects/Portfolio
 [project](https://github.com/your-username/project)
